@@ -1,2 +1,2 @@
 # Sabbata Waaqayyoo
-Yeroon isaa tibba gannaa baatii Hagayyaa keessa ture.
+Yeroon isaa tibba gannaa baatii Hagayyaa keessa ture. Bokkaa qilleensa jabaa makatee huccuu gonneetti ol soqolutu roobaa jira. Yandoo manni hin baanne! Mana baadiyaa citaan kabamte bantiirraan seenee maatii yaaddoo dhinphuun jaanjessee kan lolaan manaa baasu. Gombisaa midhaanii jigsee jaarsaa fi jaartiin akka walitti bu'aniif kan affeeru. Karfaffuu bubbeen wal make karfaffeessaa cirracha adiitiin gubbaarraa asii gad na darbata. Uffatni koo doolla'ee akka nama ofirratti fincaa'ee mormaan na seenee miil-jalaan na ba'eera. Tortoranii rooba hin dheessani akkuma jedhanii makmaakan anis qorra tibba gannaa fi reebicha cabbii damdamadheen qoma qullaa keessuma deemaa jira.
