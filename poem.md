@@ -5,7 +5,7 @@ Tarii hin beekamu, bilisummaa fida
 Barbaachisaa taanaan, dacheen haa dhodhootu  
 Nama baachuu dhiistee, walitti haa dachaatu x2  
 
-<hr style="width: 5%; border-top: 1px solid #ccc; margin: 5px 0;">
+···
 
 Lubbuunsaa haa darbu, mootiin karaa kaabaa  
 Aduunis hin bahiin, isheen karaa bahaa  
@@ -62,52 +62,3 @@ Garaan na waadamee, miilli na qunca'e
 Akka nama danfa seenee, qaamni na luqqa'e  
 Fudhadhu lubbuu koo, amma hoo na ga'e  
 Siin barbaachaaf jecha, akka taane ta'e ×2  
-
-Tajaajila hin kenniin, laggeen haa gogani  
-Gaaddisnis haa badu, duumessuu hin jiraatiin  
-Dachee badduun kuni, golgaa hin argatiin  
-Samiin dukkanoofnaan, aduun ifa laatiin ×2  
-
-<hr style="width: 30%; border-top: 1px solid #ccc; margin: 5px 0;">
-
-Arfaasaan hin dhufiin, sanyiin diinaa marga  
-Hin fedhu tibba birraas, bofti lafa arga  
-Gannas ta'e bona, tokkoyyuu hin barbaadu  
-Haala mijeeffata, nyaataan lubbuu gaadu  
-
-<hr style="width: 30%; border-top: 1px solid #ccc; margin: 5px 0;">
-
-Kaleessa abbootaa, cileedhaan dibanii  
-Egeree dhalootaa, sobaan haguuganii  
-Mucucaachuu namaa, haalaan kan eegani  
-Kan ga'e haammatu, summii facaasanii ×2  
-
-<hr style="width: 30%; border-top: 1px solid #ccc; margin: 5px 0;">
-
-Guyyaa dhiistee, hurunguun halkan aaddu  
-Allaattii budittiin, du'a namaa himtu  
-Dafqa keenya fuutee, fiixee mukaa teessu  
-Gogaa narraa baastee, foon koo alanfachuuf  
-Kan of qopheessaa jirtu, qoochuma guuttachuuf  
-
-<hr style="width: 30%; border-top: 1px solid #ccc; margin: 5px 0;">
-
-Nyaattee beela hin ba'iin, dhiiga koon fe'ami  
-Mukichi sin baatiin, achirraa darbami  
-Achirraa kufiitii, gobaatti dirami  
-Iji koo sin baatiin, du'ii awwaalami ×2  
-
-<hr style="width: 30%; border-top: 1px solid #ccc; margin: 5px 0;">
-
-U...u...u jedheen iyya, ol kaaseen caraana  
-Callisuu hin danda'u, keessaa na waraana  
-Boo'ee dadhabeera, imimmaan lolaasee  
-Aarsaa barbaachisu, dhiiga dhangalaasee  
-
-<hr style="width: 30%; border-top: 1px solid #ccc; margin: 5px 0;">
-
-Garaan na waadamee, miilli na qunca'e  
-Akka nama danfa seenee, qaamni na luqqa'e  
-Fudhadhu lubbuu koo, amma hoo na ga'e  
-Siin barbaachaaf jecha, akka taane ta'e ×2  
-
