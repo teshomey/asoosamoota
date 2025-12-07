@@ -5,7 +5,7 @@ Tarii hin beekamu, bilisummaa fida
 Barbaachisaa taanaan, dacheen haa dhodhootu  
 Nama baachuu dhiistee, walitti haa dachaatu x2  
 
-<hr style="width: 30%; border-top: 1px solid #ccc; margin: 5px 0;">
+<hr style="width: 5%; border-top: 1px solid #ccc; margin: 5px 0;">
 
 Lubbuunsaa haa darbu, mootiin karaa kaabaa  
 Aduunis hin bahiin, isheen karaa bahaa  
