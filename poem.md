@@ -1,4 +1,4 @@
-# 🌿 Poem Title
+# 🌿 Erga safuun dhibee...
 
 Qaanqeenuu haa roobu, gaarii kamtu bada  
 Tarii hin beekamu, bilisummaa fida  
@@ -49,7 +49,7 @@ Kan of qopheessaa jirtu, qoochuma guuttachuuf
 Nyaattee beela hin ba'iin, dhiiga koon fe'ami  
 Mukichi sin baatiin, achirraa darbami  
 Achirraa kufiitii, gobaatti dirami  
-Iji koo sin baatiin, du'ii awwaalami ×2  
+Ijikoo sin baatiin, du'ii awwaalami ×2  
 
 U...u...u jedheen iyya, ol kaaseen caraana  
 Callisuu hin danda'u, keessaa na waraana  
