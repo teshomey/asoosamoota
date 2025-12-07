@@ -1,7 +1,10 @@
 
 Qaanqeenuu haa roobu, gaarii kamtu bada
+
 Tarii hin beekamu, bilisummaa fida
+
 Barbaachisaa taanaan, dacheen haa dhodhootu
+
 Nama baachuu dhiistee, walitti haa dachaatu x2
 
 ---
